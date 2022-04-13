@@ -3,8 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "be513cbba54867b83c19e189a1425a2e",
+  "assets/AssetManifest.json": "370856bf20c758db627d56afe5a6d8de",
+"assets/assets/icons/Discord-Logo-White.png": "9f6f9cd156ce35e2d94c0e62e3eff462",
 "assets/assets/icons/lotus.png": "d54b80cda246768001826a26182ff100",
+"assets/assets/images/intro_3.0.png": "089fcca9314b4069d7a40a98f48d3941",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/NOTICES": "edba21c4e5e4f3ea200ce1d53803bc1f",
@@ -25,10 +27,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "35431239befbed44fe4561ee33cf13ac",
-"/": "35431239befbed44fe4561ee33cf13ac",
+"index.html": "3783af4322488f4ae915b407fdc9373d",
+"/": "3783af4322488f4ae915b407fdc9373d",
 "lotus.png": "d54b80cda246768001826a26182ff100",
-"main.dart.js": "3150e187921bbac956f4979ab83fa730",
+"main.dart.js": "979adc993d7fa3c6f0eabddb916c792d",
 "manifest.json": "e7a4db0f61182bb38743704d298119de",
 "version.json": "8869c66581d4ee6fbc6e17773700b001"
 };
